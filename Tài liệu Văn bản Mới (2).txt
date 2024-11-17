@@ -1,1 +1,6 @@
 chuẩn bị một trái tim vững vàng để cho những khó khăn mới 
+<<<<<<< HEAD
+=======
+hãy cố lên , nào nào có ý chí nơi đó có con đường
+vì một ngày mai tốt hơn
+>>>>>>> ee4b5d68cc956d91de000972804d60d90ff8f154
